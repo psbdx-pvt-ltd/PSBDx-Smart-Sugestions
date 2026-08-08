@@ -6,7 +6,7 @@
 
 <p>Real, IntelliSense-style code suggestions for <a href="https://acode.foxdebug.com">Acode</a> — plus a toolbox of small productivity commands.</p>
 
-[![Version](https://img.shields.io/badge/version-1.1.0-2dd4bf?style=for-the-badge)](./changelogs.md)
+[![Version](https://img.shields.io/badge/version-1.0.0-2dd4bf?style=for-the-badge)](./changelogs.md)
 [![License](https://img.shields.io/badge/license-MIT-2dd4bf?style=for-the-badge)](#license)
 [![Platform](https://img.shields.io/badge/platform-Acode-2dd4bf?style=for-the-badge)](https://acode.foxdebug.com)
 [![Author](https://img.shields.io/badge/author-M.%20Farhan%20Hamim-2dd4bf?style=for-the-badge)](https://psbdx.xyz)
