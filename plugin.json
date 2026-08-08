@@ -1,0 +1,26 @@
+{
+  "id": "com.psbdx.smartsuggestions",
+  "name": "PSBDx Smart Suggestions",
+  "main": "main.js",
+  "version": "1.1.0",
+  "readme": "readme.md",
+  "icon": "icon.png",
+  "files": ["banner.png"],
+  "repository": "https://github.com/psbdx-pvt-ltd/PSBDx-Smart-Sugestions",
+  "minVersionCode": 1002,
+  "price": 0,
+  "license": "MIT",
+  "keywords": [
+    "autocomplete",
+    "intellisense",
+    "lsp",
+    "suggestions",
+    "productivity",
+    "psbdx"
+  ],
+  "changelogs": "changelogs.md",
+  "author": {
+    "name": "M. Farhan Hamim",
+    "url": "https://psbdx.xyz"
+  }
+}
